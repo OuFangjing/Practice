@@ -1,7 +1,7 @@
 package beauty;
 
-public class b {
+public class a {
     public static void main(String[] args) {
-        System.out.println("good");
+        System.out.println("a");
     }
 }
